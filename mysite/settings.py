@@ -105,6 +105,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 
+# MEDIA_URL = 'C:/Users/user1/Desktop/Django/blog/images/'
+
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'Indian/Maldives'
